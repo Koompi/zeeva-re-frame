@@ -1,0 +1,76 @@
+.indexHome{
+  position: relative;
+}
+.bannerIndex {
+  background-image: url(/img/walpaper.jpg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* z-index: -1; */
+  /* margin-top: -60px; */
+}
+.menu .item{
+  color: #ffffff !important;
+  font-size: 18px;
+}
+.ui.secondary.menu{
+  padding: 20px;
+}
+.imageLogo{
+  height: 50px !important;
+}
+.BlurbPadding{
+  padding: 60px 0px;
+}
+.HowItWorks{
+  padding-bottom: 60px;
+  font-size: 40px;
+}
+.contentTitle{
+  font-size: 24px;
+}
+.paraphDesc{
+  font-size: 18px;
+}
+.contentCenter{
+  padding-top: 25%;
+  padding-left: 10%;
+}
+.contentCenter h4{
+  font-size: 32px;
+}
+.stackable p ,.contentCenter p{
+  font-size: 17px;
+}
+.sectionBackground{
+  background-image: url("/img/walpaper_2.png");
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* background-attachment:; */
+  color: #fff;
+}
+.aboutZeeva{
+  font-size: 36px;
+  padding-top: 40px;
+}
+.aboutLogo{
+  height: 45px;
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+.aboutTitle{
+  color: yellow;
+  font-size: 26px;
+  padding-top: 15px;
+}
+.accordionPadding{
+  margin: 30px 0px;
+}
+.FAQ{
+  margin-top: 50px !important;
+  font-size: 32px;
+}

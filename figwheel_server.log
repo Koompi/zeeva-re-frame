@@ -1,0 +1,88 @@
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/routes.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.647 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva/components/content.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva/components/navbar.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.865 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.903 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 1.089 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.856 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 1.144 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 1.099 seconds.[0m
+[36m----  Could not Analyze  src/cljs/zeeva_re_frame/views.cljs  ----[0m
+
+  [1mInvalid :refer, var zeeva-re-frame.components.content/Blurb does not exist [0m
+
+[36m----  Analysis Error : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.739 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.391 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.554 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.515 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.425 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.247 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.642 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.451 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.46 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.598 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
