@@ -9,4 +9,4 @@ re_frame.core.reg_sub.call(null,new cljs.core.Keyword("zeeva-re-frame.subs","act
 return new cljs.core.Keyword(null,"active-panel","active-panel",-1802545994).cljs$core$IFn$_invoke$arity$1(db);
 }));
 
-//# sourceMappingURL=subs.js.map?rel=1548216511198
+//# sourceMappingURL=subs.js.map?rel=1548321631928
