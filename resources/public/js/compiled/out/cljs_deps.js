@@ -90,7 +90,7 @@ goog.addDependency("../re_com/dropdown.js", ['re_com.dropdown'], ['re_com.util',
 goog.addDependency("../re_com/splits.js", ['re_com.splits'], ['re_com.util', 're_com.box', 'reagent.core', 'cljs.core', 're_com.validate']);
 goog.addDependency("../re_com/modal_panel.js", ['re_com.modal_panel'], ['cljs.core', 're_com.validate']);
 goog.addDependency("../re_com/core.js", ['re_com.core'], ['re_com.popover', 're_com.text', 're_com.box', 'cljs.core', 're_com.typeahead', 're_com.tabs', 're_com.alert', 're_com.datepicker', 're_com.input_time', 're_com.buttons', 're_com.tour', 're_com.selection_list', 're_com.dropdown', 're_com.misc', 're_com.splits', 're_com.modal_panel']);
-goog.addDependency("../zeeva_re_frame/components/navbar.js", ['zeeva_re_frame.components.navbar'], ['cljs.core']);
+goog.addDependency("../zeeva_re_frame/components/navbar.js", ['zeeva_re_frame.components.navbar'], ['reagent.core', 'cljs.core']);
 goog.addDependency("../zeeva_re_frame/components/banner.js", ['zeeva_re_frame.components.banner'], ['cljs.core', 'zeeva_re_frame.components.navbar']);
 goog.addDependency("../zeeva_re_frame/components/content.js", ['zeeva_re_frame.components.content'], ['cljs.core']);
 goog.addDependency("../re_frame/interop.js", ['re_frame.interop'], ['reagent.ratom', 'reagent.core', 'cljs.core', 'goog.async.nextTick']);

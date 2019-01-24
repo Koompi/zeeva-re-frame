@@ -100,6 +100,95 @@
   border-top: 2px solid #dfe0e0;
   padding: 5px 0px;
 }
+.main.menu {
+  margin-top: 4em;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.secondary.menu {
+  display: none !important ;
+}
+
+.item i{
+  color: #ffffff;
+}
+
+.ui.vertical.menu {
+  background: #01253b !important;
+  z-index: 1000 !important;
+}
+
+@-webkit-keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animated {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.slideInLeft {
+  -webkit-animation-name: slideInLeft;
+  animation-name: slideInLeft;
+}
+
+@-webkit-keyframes slideOutLeft {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    visibility: hidden;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+@keyframes slideOutLeft {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    visibility: hidden;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+.slideOutLeft {
+  -webkit-animation-name: slideOutLeft;
+  animation-name: slideOutLeft;
+}
 
 
 @media only screen and (max-width : 1200px) {
@@ -110,10 +199,19 @@
     width: 90% !important;
   }
   .bannerIndex{
-    height: 50vw !important;
+    height: 70vw !important;
   }
   .indexBanner {
     font-size: 26px;
+  }
+  .contentTitle {
+    font-size: 20px;
+  }
+  .sectionBackground{
+    height: 60vw;
+  }
+  .widthFooter {
+    width: 25%;
   }
 }
 
@@ -128,8 +226,19 @@
     padding-top: 8vw;
     padding-right: 43%;
   }
-  .ui.secondary.menu{
+  .ui.main.menu {
+    display: none !important;
+  }
+  .main.menu .item,
+  .main.menu .menu {
     display: none;
+  }
+  .secondary.menu {
+    display: block!important;
+  }
+  .imageLogo {
+    height: auto;
+    width: 28%;
   }
   .aboutTitle{
     padding-top: 0px;
@@ -160,7 +269,7 @@
 
 @media only screen and (max-width : 580px) {
   .bannerIndex {
-    height: 80vw !important;
+    height: 80  vw !important;
     /* font-size: 22px !important; */
   }
   .indexBanner{

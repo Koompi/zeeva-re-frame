@@ -1,8 +1,8 @@
 (ns zeeva-re-frame.events
   (:require
    [re-frame.core :as re-frame]
-   [zeeva-re-frame.db :as db]
-   ))
+   [zeeva-re-frame.db :as db]))
+   
 
 (re-frame/reg-event-db
  ::initialize-db

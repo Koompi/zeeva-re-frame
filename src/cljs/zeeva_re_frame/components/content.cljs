@@ -52,7 +52,7 @@
               [:div
                 (column "")]]
 
-          [:div {:class "ui stackable three column grid"}
+          [:div {:class "ui stackable three column grid visible"}
               [:div {:class "column"}
                   [:h4.aboutTitle "Vision"]
                   (column "The trusted security token issuing company that secure buy real vaulable asset and fiat currency with special formulation and auditable feature included.")]

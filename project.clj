@@ -25,8 +25,8 @@
 
     :plugins      [[lein-figwheel "0.5.16"]
                    [lein-doo "0.1.8"]]}
-   :prod { }
-   }
+   :prod {}}
+   
 
   :cljsbuild
   {:builds
@@ -39,8 +39,8 @@
                     :asset-path           "js/compiled/out"
                     :source-map-timestamp true
                     :preloads             [devtools.preload]
-                    :external-config      {:devtools/config {:features-to-install :all}}
-                    }}
+                    :external-config      {:devtools/config {:features-to-install :all}}}}
+                    
 
     {:id           "min"
      :source-paths ["src/cljs"]
@@ -55,6 +55,6 @@
      :compiler     {:main          zeeva-re-frame.runner
                     :output-to     "resources/public/js/compiled/test.js"
                     :output-dir    "resources/public/js/compiled/test/out"
-                    :optimizations :none}}
-    ]}
-  )
+                    :optimizations :none}}]})
+    
+  

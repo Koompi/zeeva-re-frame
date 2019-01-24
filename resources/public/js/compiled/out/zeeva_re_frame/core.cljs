@@ -5,8 +5,8 @@
    [zeeva-re-frame.events :as events]
    [zeeva-re-frame.routes :as routes]
    [zeeva-re-frame.views :as views]
-   [zeeva-re-frame.config :as config]
-   ))
+   [zeeva-re-frame.config :as config]))
+   
 
 
 (defn dev-setup []
