@@ -28,6 +28,12 @@
   (defroute "/about" []
     (re-frame/dispatch [::events/set-active-panel :about-panel]))
 
+  (defroute "/faq" []
+    (re-frame/dispatch [::events/set-active-panel :faq-panel]))
+
+  (defroute "/solutions" []
+    (re-frame/dispatch [::events/set-active-panel :solutions-panel]))
+
 
   ;; --------------------
   (hook-browser-navigation!))

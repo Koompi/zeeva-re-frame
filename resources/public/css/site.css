@@ -24,7 +24,7 @@
   padding: 60px 0px;
 }
 .HowItWorks{
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   font-size: 40px;
 }
 .contentTitle{
@@ -73,4 +73,140 @@
 .FAQ{
   margin-top: 50px !important;
   font-size: 32px;
+}
+.indexBanner{
+  color: #ffffff;
+  font-size: 40px;
+}
+.descBanner{
+  color: #ffffff;
+  font-size: 20px;
+}
+.indexPadding{
+  padding-top: 8vw;
+  padding-right: 50%;
+}
+.widthFooter{
+  width: 15%;
+}
+.follow{
+  color: #35a6ff;
+  padding: 10px 0px;
+}
+.widthFooter{
+  margin-bottom: 30px;
+}
+.ui.accordion .title{
+  border-top: 2px solid #dfe0e0;
+  padding: 5px 0px;
+}
+
+
+@media only screen and (max-width : 1200px) {
+
+}
+@media only screen and (max-width : 979px) {
+  .ui.container{
+    width: 90% !important;
+  }
+  .bannerIndex{
+    height: 50vw !important;
+  }
+  .indexBanner {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width : 767px) {
+  .bannerIndex {
+    height: 55vw !important;
+  }
+  .indexBanner{
+    font-size: 21px;
+  }
+  .indexPadding {
+    padding-top: 8vw;
+    padding-right: 43%;
+  }
+  .ui.secondary.menu{
+    display: none;
+  }
+  .aboutTitle{
+    padding-top: 0px;
+    font-size: 22px;
+  }
+  .aboutZeeva {
+    font-size: 26px;
+    padding-top: 40px;
+  }
+  .aboutLogo {
+    height: 36px;
+  }
+  .widthFooter {
+    width: 26%;
+  }
+  .sectionBackground{
+    background-position: right;
+    height: 77vw;
+  }
+  .sectionBackground p{
+    padding-right: 30%;
+  }
+  .descBanner {
+    color: #ffffff;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width : 580px) {
+  .bannerIndex {
+    height: 80vw !important;
+    /* font-size: 22px !important; */
+  }
+  .indexBanner{
+    font-size: 22px;
+  }
+  .BlurbPadding{
+    padding: 20px 0px;
+  }
+  .aboutZeeva {
+    font-size: 24px;
+  }
+  .sectionBackground {
+    background-position: center;
+    height: 100vw;
+  }
+  .sectionBackground p{
+    font-size: 18px;
+    padding: 0px;
+  }
+  .widthFooter {
+    width: 35%;
+  }
+}
+
+@media only screen and (max-width : 370px) {
+  .bannerIndex {
+    height: 100vw !important;
+    /* font-size: 22px !important; */
+    background-position: inherit;
+  }
+  .indexBanner {
+    font-size: 18px;
+  }
+  .descBanner {
+    color: #ffffff;
+    font-size: 17px;
+  }
+  .indexPadding {
+    padding-top: 19vw;
+    padding-right: 0%;
+  }
+  .sectionBackground {
+    background-position: center;
+    height: 200vw;
+  }
+  .widthFooter {
+    width: 55%;
+  }
 }

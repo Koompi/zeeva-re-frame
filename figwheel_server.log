@@ -86,3 +86,459 @@ notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_
 Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
 [32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.598 seconds.[0m
 notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.582 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.477 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.543 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.738 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.56 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.381 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.342 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.545 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/banner.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.539 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.009 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.541 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.576 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.717 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.842 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.334 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.663 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.35 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.626 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/routes.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.279 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/routes.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 6.833 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/routes.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.617 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.701 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.788 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.309 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.379 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.294 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.035 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.687 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.771 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.593 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/routes.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.507 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.318 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.431 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 3.291 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.364 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.48 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/zeeva_re_frame/views.cljs   line:17  column:16  ----[0m
+
+  [1mUse of undeclared Var zeeva-re-frame.views/footer-panel[0m
+
+  [36m13[0m  [36m  [re-com/v-box[0m
+  [36m14[0m  [36m   :gap "1em"[0m
+  [36m15[0m  [36m   :children [[Banner][0m
+  [36m16[0m  [36m              [Blurb][0m
+  [33m17[0m  [1m              [footer-panel]]])[0m
+  [0m  [0m  [33m               ^--- Use of undeclared Var zeeva-re-frame.views/footer-panel[0m
+  [36m18[0m  [36m              [0m
+  [36m19[0m  [36m;; about[0m
+  [36m20[0m  [36m[0m
+  [36m21[0m  [36m(defn about-panel [][0m
+  [36m22[0m  [36m  [re-com/v-box[0m
+
+[36m----  Compiler Warning : Please see src/cljs/zeeva_re_frame/views.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.602 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.736 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/views.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/zeeva_re_frame/components/content.cljs   line:5  column:6  ----[0m
+
+  [1mNo such namespace: re-com, could not locate re_com.cljs, re_com.cljc, or JavaScript source providing "re-com"[0m
+
+  [36m 1[0m  [36m(ns zeeva-re-frame.components.content)[0m
+  [36m 2[0m  [36m[0m
+  [36m 3[0m  [36m[0m
+  [36m 4[0m  [36m(defn footer-panel [][0m
+  [33m 5[0m  [1m    [re-com/v-box[0m
+  [0m  [0m  [33m     ^--- No such namespace: re-com, could not locate re_com.cljs, re_com.cljc, or JavaScript source providing "re-com"[0m
+  [36m 6[0m  [36m      :gap "1em"[0m
+  [36m 7[0m  [36m      :children [[:h1 "Fuck you"]]])[0m
+  [36m 8[0m  [36m[0m
+  [36m 9[0m  [36m(defn section1[0m
+  [36m10[0m  [36m    [img title desc][0m
+
+[36m----  Compiler Warning : Please see src/cljs/zeeva_re_frame/components/content.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/zeeva_re_frame/components/content.cljs   line:5  column:6  ----[0m
+
+  [1mUse of undeclared Var re-com/v-box[0m
+
+  [36m 1[0m  [36m(ns zeeva-re-frame.components.content)[0m
+  [36m 2[0m  [36m[0m
+  [36m 3[0m  [36m[0m
+  [36m 4[0m  [36m(defn footer-panel [][0m
+  [33m 5[0m  [1m    [re-com/v-box[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var re-com/v-box[0m
+  [36m 6[0m  [36m      :gap "1em"[0m
+  [36m 7[0m  [36m      :children [[:h1 "Fuck you"]]])[0m
+  [36m 8[0m  [36m[0m
+  [36m 9[0m  [36m(defn section1[0m
+  [36m10[0m  [36m    [img title desc][0m
+
+[36m----  Compiler Warning : Please see src/cljs/zeeva_re_frame/components/content.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.703 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.49 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.521 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.689 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.57 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.563 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.893 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.74 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.628 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.585 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.501 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.453 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.581 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.811 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.935 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.414 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.322 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.425 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.437 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.599 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.032 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.698 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.91 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.171 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.914 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.584 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.582 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.44 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.629 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.308 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.619 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.774 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.389 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 2.186 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.817 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.986 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.745 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.327 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.424 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.711 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.801 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.367 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.445 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.653 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.373 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.368 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.323 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.588 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.98 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/navbar.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.634 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Compiling build :dev to "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/compiled/app.js" in 1.977 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/zeeva_re_frame/components/content.js
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css
+Notifying browser that CSS file changed: resources/public/css/site.css

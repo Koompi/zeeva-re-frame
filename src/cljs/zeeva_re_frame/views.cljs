@@ -7,8 +7,6 @@
    [zeeva-re-frame.components.banner :refer [Banner]]
    [zeeva-re-frame.components.content :refer [Blurb]]))
    
-
-
 ;; home
 
 (defn home-panel []
@@ -25,12 +23,30 @@
    :children [[:h1 "Fuck you"]]])
 
 
+;; solutions
+
+(defn solutions-panel []
+  [re-com/v-box
+   :gap "1em"
+   :children [[:h1 "Fuck you"]]])
+
+
+;; solutions
+
+(defn faq-panel []
+  [re-com/v-box
+   :gap "1em"
+   :children [[:h1 "Fuck you"]]])
+
+
 ;; main
 
 (defn- panels [panel-name]
   (case panel-name
     :home-panel [home-panel]
+    :solutions-panel [solutions-panel]
     :about-panel [about-panel]
+    :faq-panel [faq-panel]
     [:div]))
 
 (defn show-panel [panel-name]
